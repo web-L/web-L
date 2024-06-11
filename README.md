@@ -10,6 +10,8 @@
 
 ![ali · 语雀](https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*PXAJTYXseTsAAAAAAAAAAAAADvuFAQ/original)
 
+<img src="图片链接" style="width: 300px; height: 200px;">
+
 ---
 
 ## 捣鼓的项目

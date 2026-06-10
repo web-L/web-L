@@ -17,7 +17,7 @@
 * 🎯 **Quality-Driven:** Dedicated to writing high-quality, maintainable, and scalable code to deliver performant, intuitive, and engaging products.
 * 🌐 **Continuous Learner:** Currently diving deeper into / focusing on: **AI Applications, React.js, and Vue.js**.
 * 💬 **Let's Connect:** Feel free to reach out to discuss topics like **React, Vue, Node.js, TypeScript, Performance Optimization, UI/UX, System Design**, and more!
-* 📫 **How to reach me:** web_ali@126.com
+* 📫 **How to reach me:** 1443975636@qq.com
 * ⚡ **Fun Fact:** I enjoy running! You can check out [my running page here](https://web-l.github.io/running_page/).
 
 ---
